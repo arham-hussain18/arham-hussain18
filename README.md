@@ -1,109 +1,68 @@
-# 👋 Hi, I'm Arham Hussain
+<div align="center">
 
-**Final-Year Computer Science Student @ FAST-NUCES, Lahore**  
-📍 Lahore, Pakistan | 📧 arhamhussain2302@gmail.com 
+# Arham Hussain
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arham--hussain-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arham-hussain-a09517371)
-[![GitHub](https://img.shields.io/badge/GitHub-arham173015-black?style=flat&logo=github)](https://github.com/arham173015)
+**Software Engineer · Full-Stack Developer · CS Final Year @ FAST-NUCES**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arham-hussain-a09517371)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arham173015)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamhussain2302@gmail.com)
 
-## 🧑‍💻 About Me
-
-I'm a final-year BS Computer Science student with a strong foundation in software development, algorithms, and data structures. I'm passionate about building practical applications that solve real-world problems — from AI-powered interior design tools to real-time chat platforms.
-
-- 🔍 Fast learner who actively seeks to apply technical skills to real-world challenges
-- 🛠️ Experienced across the full stack — frontend, backend, and cloud
-- 🏆 Gold Medalist at the International Kangaroo Linguistics Contest (IKLC)
+</div>
 
 ---
 
-## 🎓 Education
+I build things that work — and work well. Currently finishing my CS degree at FAST-NUCES while shipping real projects across the full stack. My interests sit at the intersection of AI, intuitive interfaces, and scalable backend systems.
 
-| Degree | Institution | Duration |
-|--------|-------------|----------|
-| BS Computer Science | FAST National University (FAST-NUCES), Lahore | 2022 – Present |
-| ICS – Computer Science Group | Kinnaird College for Women University, Lahore | 2020 – 2022 |
-| Matriculation | Unique High School, Lahore | 2018 – 2020 |
-| Primary Education | Lahore Grammar School | 2008 – 2018 |
+Right now I'm interning at **CodeAlpha** (Frontend Development) and actively developing **RoomFusion**, an AI-powered interior design platform with a geofenced vendor marketplace.
 
 ---
 
-## 💼 Experience
+## What I'm Working With
 
-### 🖥️ Frontend Development Intern — CodeAlpha *(Remote)*
-**Jun 2026 – Jul 2026** 
-
-Selected for a Frontend Development Internship at CodeAlpha, focused on hands-on application of skills and learning new concepts in a professional environment.
-
----
-
-### 🥽 Software Engineer Intern — Panora Visual Tours *(On-site)*
-**Nov 2025 – Dec 2025** · 2 months | Kalamkaar Road, Lahore, Pakistan
-
-- Contributed to development of immersive 360° and VR-based virtual tour applications for real-world locations
-- **Skills used:** Unity, Python
+```text
+Languages      C++  Python  JavaScript  TypeScript  SQL  Java
+Frontend       React.js  Tailwind CSS  Three.js  Fabric.js
+Backend        FastAPI  Node.js  PostgreSQL  REST APIs
+Cloud & Tools  AWS S3  Firebase  Supabase  Git  Figma  Netlify
+CS Concepts    DSA  OOP  Operating Systems  Computer Networks  AI
+```
 
 ---
 
-## 🚀 Projects
+## Selected Projects
 
-### 🏠 RoomFusion — AI Interior Design & Furniture Platform *(2026 – Present)*
-An intelligent platform that combines LLM-powered design with an interactive marketplace.
+**[RoomFusion](https://github.com/arham173015)** — AI Interior Design & Furniture Platform
+> LLM-powered room layout generator with Chain-of-Thought prompting, a geofenced vendor marketplace (Haversine formula, 25 km radius), interactive 2D canvas via Fabric.js, and 3D walkthroughs via Three.js. Backend: FastAPI + PostgreSQL on AWS S3.
 
-- Built an LLM-powered layout generator using **Chain-of-Thought prompting** with semantic validation for door clearance and walkway widths
-- Designed a **geofenced marketplace** using the Haversine formula to connect users with vendors within 25 km
-- Created an interactive **2D canvas** (Fabric.js) and **3D walkthrough** (Three.js) for room visualization
-- Architected a **FastAPI** backend with **PostgreSQL**, deployed on **AWS S3**
+**Restaurant Web Application** — Full-Stack Ordering Platform
+> Role-based system for Admin, Staff, and Customers built with React.js and TypeScript. Real-time orders, menu management, and branch dashboards powered by Supabase.
 
----
-
-### 🍽️ Restaurant Web Application — Full-Stack Ordering Platform *(2025)*
-A role-based platform serving Admin, Staff, and Customer roles.
-
-- Built using **React.js** and **TypeScript**
-- Integrated **Supabase** for authentication, real-time orders, promotions, and menu updates
-- Designed an Admin Panel with dashboards for managing menu, branches, FAQs, and promotions
+**Code Hub** — Developer Collaboration Chat App
+> Real-time chat platform connecting students with developers. Built with vanilla JS/HTML/CSS, Firebase authentication and live database, UI designed in Figma.
 
 ---
 
-### 💬 Code Hub — Chat Application *(2025)*
-A responsive web app connecting students with online coders for real-time collaboration.
+## Experience
 
-- Frontend built with **HTML**, **CSS**, and vanilla **JavaScript**; UI/UX prototyped in **Figma**
-- Integrated **Firebase** for authentication, real-time database, and chat functionality
+| Role | Company | Period |
+|---|---|---|
+| Frontend Development Intern | CodeAlpha | Jun – Jul 2026 |
+| Software Engineer Intern | Panora Visual Tours | Nov – Dec 2025 |
 
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-`C++` `Python` `JavaScript` `TypeScript` `SQL` `Java` `Assembly`
-
-**Frameworks & Libraries**
-`React.js` `FastAPI` `Tailwind CSS` `Three.js` `Fabric.js` `Node.js`
-
-**Tools & Platforms**
-`Git` `VS Code` `Supabase` `Firebase` `PostgreSQL` `AWS S3` `Netlify` `Figma`
-
-**Core CS**
-`Data Structures & Algorithms` `OOP` `Operating Systems` `Computer Networks` `AI`
+At **Panora**, I contributed to 360° and VR-based virtual tour applications using Unity and Python.
 
 ---
 
-## 🏅 Achievements
+## A Bit More
 
-- 🥇 **IKLC Gold Medalist** — International Kangaroo Linguistics Contest
-- 🏀 **Basketball** — Winner of multiple school-level competitions
-- 📐 **IKMC Participant** — International Kangaroo Mathematics Contest
-
----
-
-## 🌐 Languages
-
-- 🇬🇧 **English** — Fluent
-- 🇵🇰 **Urdu** — Native
+- 🥇 Gold Medalist — International Kangaroo Linguistics Contest (IKLC)
+- 📐 Participant — International Kangaroo Mathematics Contest (IKMC)
+- 🏀 Multiple school-level basketball competition winner
+- 🌐 English (Fluent) · Urdu (Native)
 
 ---
 
-*Open to collaborations, internships, and full-time opportunities in software development.*
+<div align="center">
+  <sub>Open to full-time roles and meaningful collaborations · <a href="mailto:arhamhussain2302@gmail.com">arhamhussain2302@gmail.com</a></sub>
+</div>
